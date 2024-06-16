@@ -1,0 +1,3 @@
+viết cho tôi 1 bài content về Tiêu chuẩn và chứng nhận trong ngành khách sạn, kèm "description, keywords, content, sectionH01, sectionH02, sectionH03,section01, section02, section03"
+sectionH01, sectionH02, sectionH03 là nội dung cho h2
+section01, section02, section03 là nội dung cho thẻ p
